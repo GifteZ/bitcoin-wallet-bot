@@ -11,7 +11,7 @@ from bit.network import get_fee, get_fee_cached
 lock = threading.Lock()
 
 bottoken = "" #your bot's token (created with @botfather)
-bot = telebot.TeleBot(bottoken)
+bot = telebot.TeleBot(5564608097:AAETRs9DWYumqy8AmgtS-Tj_KkEQl9uCq4A)
 
 #connection to the sqlite database
 
